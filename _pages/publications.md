@@ -10,11 +10,11 @@ author_profile: true
 
 {% include base_path %}
 
-### Bibliographic Databases
+## Bibliographic Databases
 
 * [Google Scholar](http://scholar.google.com/citations?user=LFTK5C8AAAAJ&hl=en)
 
-### Conferences
+## Conferences
 
 - Abdullah Albanyan, Ahmed Hassan, and Eduardo Blanco. 2023. Finding Authentic Counterhate Arguments: A Case Study with Public Figures. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. [[Paper](https://aclanthology.org/2023.emnlp-main.855/)]
 - Abdullah Albanyan, Ahmed Hassan, and Eduardo Blanco. 2023. Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023) [[Paper](https://aclanthology.org/2023.starsem-1.8/)]

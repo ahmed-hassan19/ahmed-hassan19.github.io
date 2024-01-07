@@ -8,18 +8,18 @@ redirect_from:
 ---
 {% include base_path %}
 
-### Current Role
+## Current Role
 
 * **United Nation's FAO**, Remote, Jan 2022 - Present
   * Cloud Data Engineer
     * Utilizing Google Cloud Platform (GCP) to design robust data pipelines, optimize data architectures, develop APIs, and ensure a seamless flow of information to support dashboarding and other decision-making processes.
 
-### Education
+## Education
 
 * B.S. in Communications and Information Engineering, University of Science and Technology - Zewail City, 2021.
   * Artificial Intelligence & Big Data Analytics.
 
-### Industrial Experience
+## Industrial Experience
 
 * **Egypt's Information Technology Institute (ITI)**, Seasonal, Nov 2021 - Jan 2022 and Jun 2022 - Aug 2022
   * **Freelancing Mentor**
@@ -31,7 +31,7 @@ redirect_from:
   * **Freelance Machine Learning Engineer**
     * With focus on NLP
 
-### Academic Experience
+## Academic Experience
 
 * **Zewail City of Science and Technology**, Giza, Egypt, Dec 2020 - Nov 2021
   * An extension to the work done during my internship on Dynamic Arabic Sign Language Recognition.
