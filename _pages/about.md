@@ -18,6 +18,3 @@ Areas of Interest
 2. Data Governance
 3. Software Engineering
 4. Artificial Intelligence
-
-Updates
--------
